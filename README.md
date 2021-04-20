@@ -47,47 +47,48 @@ Below you can find a chart demonstrating the paths that you can take and the lib
     1. Package Managers
         * [npm](https://www.npmjs.com/)
         * [yarn](https://yarnpkg.com/lang/en/)
-        * [pnpm](https://pnpm.js.org/)
     2. IDE's
         * [Remix IDE](https://remix.ethereum.org/)
         * [Ethfiddle](https://ethfiddle.com/)
-        * [labs.superblock](https://superblocks.com/)
         * [Truffle](https://truffleframework.com/)
         * [Populus](https://github.com/ethereum/populus)
-    * [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)
+    * [Solidity](https://solidity.readthedocs.io/)
     * [Vyper](https://github.com/ethereum/vyper)
 5. Frameworks
-    1. Truffle Suit (Recommended)
+    1. HardHat
+        * [Tutorial](https://hardhat.org/tutorial/)
+    2. Truffle Suit (Recommended)
         * [Truffle](https://truffleframework.com/truffle)
         * [Ganache](https://truffleframework.com/ganache)
         * [Drizzle](https://truffleframework.com/drizzle)
         * [Tutorials](https://truffleframework.com/tutorials)
         * [Truffle Under the Hood](https://medium.com/heartbankacademy/how-truffle-works-under-the-hood-f1ff6add416c)
-    2. ZeppeLine OS
+    3. ZeppeLine OS
         * [Getting Started](https://docs.zeppelinos.org/docs/start.html)
-    3. Labs.Superblock
+    4. Labs.Superblock
         * [Labs.superblocks](https://lab.superblocks.com/)
         * [Video Tutorials](hhttps://www.youtube.com/watch?v=wYGXq8vW9Dg)
         * [dapp Tutorial](https://www.youtube.com/watch?v=LK-kVMzrdno)
-    4. Populus (Python)
+    5. Populus (Python)
         * [Populus](https://github.com/ethereum/populus)
         * [Tutorial](https://populus.readthedocs.io/en/latest/tutorial.html)
-    5. Infura (A Gateway to Ethereum)
+    6. Infura (A Gateway to Ethereum)
         * [Mainnet End Point](https://infura.io/)
         * [Ropsten TestNet End Point](https://infura.io/)
         * [Kovan TestNet End Point](https://infura.io/)
         * [Rinkby TestNet End Point](https://infura.io/)
         * [IPFS](https://medium.freecodecamp.org/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0)
-    6. Interacting with Smart Contract
+    7. Interacting with Smart Contract
         * [Web3.js](https://web3js.readthedocs.io/en/1.0/)
         * [Web3.py](https://web3py.readthedocs.io/en/stable/)
-    7. Python Ethereum Eco System
+    8. Python Ethereum Eco System
         * [Article](https://medium.com/@pipermerriam/the-python-ethereum-ecosystem-101bd9ba4de7)
 6. [Distributed Storage Systems](https://medium.com/bitfwd/what-is-decentralised-storage-ipfs-filecoin-sia-storj-swarm-5509e476995f)
     1. [IPFS](https://ipfs.io/)
     2. [SWARM](https://swarm-gateways.net/)
     3. [Storej](https://storj.io/)
     4. [Sia](https://sia.tech/)
+    5. [FileCoin](https://filecoin.io/)
 7. Ethereum Naming Service
     * [ENS](https://ens.domains/)
 8. Front End App
